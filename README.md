@@ -232,14 +232,14 @@ If you're building something interesting, I'd love to **learn, contribute, and g
 
 ---
 
-# 🐍 My Contribution Journey
+<h2>🐍 My Contribution Journey</h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/jaiakashss122-coder/jaiakashss122-coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/jaiakashss122-coder/jaiakashss122-coder/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 
 # 🎯 2026 Goals

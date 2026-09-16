@@ -166,18 +166,11 @@ A web application exploring food and nutritional information.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=jaiakashss122-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-  alt="Jaiakash's GitHub Stats"
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaiakashss122-coder&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakashss122-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Jaiakash's Top Languages"
-/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiakashss122-coder&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 # 🔥 Contribution Streak

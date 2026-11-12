@@ -272,7 +272,7 @@ I'm interested in collaborating on:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://innovexareg.vercel.app/">
+<a href="https://innovexareg.in/">
 <img src="https://img.shields.io/badge/Innovexa%20Hub-00D9FF?style=for-the-badge&logo=rocket&logoColor=black"/>
 </a>
 
